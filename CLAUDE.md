@@ -1,3 +1,5 @@
+_Created: 15-05-2026 · Last updated: 05-09-2026_
+
 # CLAUDE.md
 
 This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
@@ -11,3 +13,5 @@ Each dictionary's Arabic loanword analysis is tracked as a separate issue, ident
 ## Common Commands
 
 No standalone scripts — analysis work is conducted through issues and manually applied corrections to `csl-orig` source files via the standard `updateByLine.py` pattern.
+
+_Dr. Mārcis Gasūns_
