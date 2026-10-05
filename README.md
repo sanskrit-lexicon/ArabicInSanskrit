@@ -1,5 +1,7 @@
 # ArabicInSanskrit
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23151288.svg)](https://doi.org/10.5281/zenodo.23151288)
+
 _Created: 18-01-2015 · Last updated: 11-07-2026_
 
 Arabic (and Perso-Arabic) words occurring in the dictionaries of the
